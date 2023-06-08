@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
+  "title": "Non au surf en boite sur Canéjan",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
+  "welcomeText": "# N﻿on au projet de surf en eau douce sur Canéjan\n\nC﻿e site regroupe l'ensemble des informations du collectif \"Canéjan en Transition\" dédié à la lutte contre le projet de surf parc en eau douce et béton sur la commune de Canéjan, 33610, banlieu sud de Bordeaux.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "logo": "/images/uploads/img_4177_mini.jpg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "non au projet de surf sur Canéjan",
   "seoMetaImage": ""
 }
