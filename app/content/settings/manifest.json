@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Canéjan en transition",
+  "shortName": "Canéjan en transition",
+  "description": "Non au projet de surf en eau douce sur Canéjan",
+  "themeColor": "#14420f",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "fr"
 }
